@@ -1,8 +1,6 @@
-# React + Vite
+# News Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application that uses an API to bring the latest news along with a category filter.
 
-Currently, two official plugins are available:
+Big thanks to News Catcher API for providing the News. Check their api at https://www.newscatcherapi.com/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
